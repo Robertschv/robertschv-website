@@ -1,0 +1,12 @@
+- id: intro
+  translation: "Hola, my name is"
+- id: hi
+  translation: "Hola!"
+- id: hello
+  translation: "Hola"
+- id: how_are_you
+  translation: "¿Como estas?"
+- id: projects
+  translation: "projectos"
+- id: Experience
+  translation: "Experiencia"

@@ -1,0 +1,8 @@
+- id: intro
+  translation: "Hi, my name is"
+- id: hi
+  translation: "Hi"
+- id: hello
+  translation: "Hello"
+- id: how_are_you
+  translation: "How are you doing?"
