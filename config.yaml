@@ -1,6 +1,6 @@
 baseURL: "https://robertschv.netlify.app"
 #languageCode: "en-us"
-copyright: Robert Schneider
+copyright: Hans Robert Schneider
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
 languages:
@@ -93,8 +93,8 @@ languages:
       image: /images/hero.svg
       button:
         enable: true
-        name: "Resume"
-        url: "https://rxresu.me/robertschv/it-english"
+        name: "Currículum"
+        url: "https://rxresu.me/robertschv/principal-it-espaol"
       socialLinks:
         fontAwesomeIcons:
           - icon: fab fa-github
@@ -121,7 +121,7 @@ markup:
 
 params:
   title: "Robert Schneider"
-  description: All the things (cools) Robert Schneider has done of work, and also (future) projects.
+  description: All the things (cools) Hans Robert Schneider has done of work, and also (future) projects.
   twitter_handle: Robertschv_work
   # staticPath: ""  # The path to serve the static files from
   favicon: "/favicon.svg"
@@ -172,9 +172,9 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Robert."
-    subtitle: "I build things for the web"
+    subtitle: "An IT man that loves to create software"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/hero.svg
+    image: /images/hero.jpg
     button:
       enable: true
       name: "Resume"
@@ -191,8 +191,8 @@ params:
   # About
   about:
     enable: true
-    title: "Acerca de mi"
-    image: "/me.png"
+    title: "About me"
+    image: "/images/IMG_0042-01.png"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
       I am currently working on a project that will be used to help people find the best way to get around the city.
