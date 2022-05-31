@@ -207,7 +207,7 @@ params:
     title: "Robert."
     subtitle: "An IT man that loves to create software"
     content: "A passionate software developer. I build websites that looks great and I work on my skills everyday."
-    image: "/images/me2.png"
+    image: "/images/me2.webp"
     button:
       enable: true
       name: "Resume"
@@ -225,7 +225,7 @@ params:
   about:
     enable: true
     title: "About me"
-    image: "/images/IMG_0042-011.png"
+    image: "/images/IMG_0042-011.webp"
     content: |-
       IT technical support, IT service management, software deployment and software developer, I also do equipment maintenance (Hardware and Software), I am currently a learning German, I am a Medium Technician in Computer Technician, with much enthusiasm to develop in this area.
     #I am currently working on a project that will be used to help people find the best way to get around the city.
