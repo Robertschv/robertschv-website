@@ -238,106 +238,83 @@ params:
         - "JavaScript"
         - "React"
 
-
   # Experience
   experience:
     enable: true
     items:
       - job: "Leading processor"
         company: "GE Credit Solutions"
-        companyUrl: "http://ula.ve/"
-        date: "Feb 2017 - Jul 2017"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+        companyUrl: "https://www.gecreditsolutions.com/"
+        date: "Mar 2021 - Jan 2022"
         info:
           enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          In this Credit repair company.
+          - I Generated letters to dispute credit report items.
+          - Charged clients.
+          - Added clients to an Email subscription.
+          - Created Blog posts.
+          - Created websites.
+
+      - job: "Software Developer"
+        company: "Featuremine Corporation"
+        companyUrl: "https://www.featuremine.com/"
+        date: "Feb 2021 - Mar 2021"
+        info:
+          enable: false
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Create Instances in AWS
+          - Set up the server of the new website of featuremine.com and update the website
+          - Create Docker containers
+          - Create Lambdas
+
+      - job: "Frontend Web Developer"
+        company: "10X Advantage"
+        companyUrl: "https://10xadvantage.agency/"
+        date: "Mar 2020 - Jun 2020 "
+        info:
+          enable: false
+        content: |
+          - Creation of web pages
+          - Creation of web funnels
+          - Creation of conversational bots for web pages
+
+      - job: "Computer maintenance service"
+        company: "UE Colegio Micaeliano"
+        companyUrl: "https://www.facebook.com/UE-Colegio-Micaeliano-107447191946404/"
+        date: "Jun 2017 - Jul 2019"
+        info:
+          enable: false
+        content: |
+          - Installation of Windows XP and GNU/Linux operating systems
+          - Computer Maintenance
+          - Software installation and deployment
+
       - job: "Intern at ULA school of engineering of systems"
-        company: "Universidad de los Andes (VE)"
+        company: "Universidad de los Andes VE"
         companyUrl: "http://ula.ve/"
         date: "Feb 2017 - Jul 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
+        info:
+          enable: false
+        content: |
+          - Fixing computers
+          - installing Windows and Debian OSs
+          - Made an inventory of all the computers in the lab
   # Education
   education:
     enable: true
     # index: true
     items:
-      - title: "Master of Business Administration"
-        school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
       - title: "Bachelor of Science in Computer Science"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
+          name: "Universidad de los Andes VE"
+          url: "http://ula.ve/"
+        date: "2017 - 2021"
+      - title: "High School - Medium Technician in Commerce and Administrative Services Mention Informatics"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-
+          name: "U.E. Colegio Micaeliano"
+          url: "https://www.facebook.com/UE-Colegio-Micaeliano-107447191946404/"
+        date: "2013 - 2017"
   #Contact
   contact:
     enable: true
