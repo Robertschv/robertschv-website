@@ -64,7 +64,7 @@ header .navbar {
 .tooltip-inner {
     line-height: 1rem;
 }
-.tooltip .tooltip-arrow { 
+.tooltip .tooltip-arrow {
     visibility: hidden !important;
 }
 
@@ -75,11 +75,7 @@ header .navbar {
     line-height: 2rem;
     max-width: 100%;
 }
-@media screen and (min-width: 1280px) {
-    #hero {
-        min-height: 60vh;
-    }
-}
+
 #hero .content {
     animation: fade-left 1s ease-out;
 }
@@ -296,18 +292,18 @@ header .navbar {
 
 #experience .nav-item .nav-link {
     color: var(--text-color) !important;
-    border-bottom: 2px solid transparent; 
+    border-bottom: 2px solid transparent;
     border-radius: 0%;
     transition: none;
 }
 
 #experience .nav-item .nav-link.active {
     color: var(--text-color) !important;
-    border-bottom: 2px solid var(--primary-color); 
+    border-bottom: 2px solid var(--primary-color);
     opacity: 0.8;
 }
 
-#experience .nav-item .nav-link.active:hover { 
+#experience .nav-item .nav-link.active:hover {
     transition: none !important;
 }
 
