@@ -237,7 +237,13 @@ params:
         - "CSS"
         - "JavaScript"
         - "React"
-
+        - "Technical Support"
+        - "Linux"
+        - "Windows"
+        - "Customer Support"
+        - "Bash"
+        - "Troubleshooting"
+        - "Hugo Framework"
   # Experience
   experience:
     enable: true
