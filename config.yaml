@@ -49,6 +49,7 @@ languages:
         url: /es
         parent: Languages
         weight: 2
+  #German
   de:
     languageName: Deutsch
     menu:
@@ -84,10 +85,142 @@ languages:
         url: /es
         parent: Languages
         weight: 2
+
     Title: Portfolio von Robert Schneider
     slug: projekte
     description: Alle (coolen) Dinge, der Robert Schneider gearbeitet hat, und auch (zukünftige) Projekte.
     twitter_handle: Robertschv_arbeit
+    hero:
+      enable: true
+      intro: "Hallo, mein Name ist"
+      title: "Robert."
+      subtitle: "Ein IT-Mann, der es liebt, Software zu entwickeln"
+      content: "Ein leidenschaftlicher Softwareentwickler. Ich erstelle Websites, die toll aussehen, und arbeite jeden Tag an meinen Fähigkeiten."
+      image: "/images/me2.webp"
+      button:
+        enable: true
+        name: "Lebenslauf"
+        url: "https://rxresu.me/robertschv/it-english"
+      socialLinks:
+        fontAwesomeIcons:
+          - icon: fab fa-github
+            url: https://github.com/Robertschv
+          - icon: fab fa-linkedin
+            url: https://www.linkedin.com/in/hans-robert-schneider-6794a9176/
+          - icon: fab fa-twitter
+            url: https://twitter.com/Robertschneider
+
+    # About
+    about:
+      enable: true
+      title: "Über mich"
+      image: "/images/IMG_0042-011.webp"
+      content: |-
+         IT-technische Unterstützung, IT-Service-Management, Software-Bereitstellung und Software-Entwickler, ich auch tun, Wartung von Geräten (Hardware und Software), ich bin derzeit ein Lernen Deutsch, ich bin ein Medium Techniker in Computer-Techniker, mit viel Begeisterung zu entwickeln in diesem Bereich.
+      #I am currently working on a project that will be used to help people find the best way to get around the city.
+      skills:
+        enable: true
+        title: "Hier sind ein paar Technologien, mit denen ich gearbeitet habe:"
+        items:
+          - "HTML"
+          - "CSS"
+          - "JavaScript"
+          - "React"
+          - "Technische Unterstützung"
+          - "Linux"
+          - "Windows"
+          - "Kundenbetreuung"
+          - "Bash"
+          - "Troubleshooting"
+          - "Hugo Framework"
+    # Experience
+    experience:
+      enable: true
+      title: "Erfahrung"
+      items:
+        - job: "Leading processor"
+          company: "GE Credit Solutions"
+          companyUrl: "https://www.gecreditsolutions.com/"
+          date: "Mar 2021 - Jan 2022"
+          info:
+            enable: false
+          content: |
+            In dieser Kreditreparaturfirma.
+            - Ich erstellte Briefe zur Anfechtung von Kreditauskünften.
+            - Kunden in Rechnung gestellt.
+            - Kunden zu einem E-Mail-Abonnement hinzugefügt.
+            - Blog-Beiträge erstellt.
+            - Websites erstellt.
+
+        - job: "Software-Entwickler"
+          company: "Featuremine Corporation"
+          companyUrl: "https://www.featuremine.com/"
+          date: "Feb 2021 - Mar 2021"
+          info:
+            enable: false
+          content: |
+            - Instanzen in AWS erstellen
+            - Richten Sie den Server der neuen Website von featuremine.com ein und aktualisieren Sie die Website
+            - Docker-Container erstellen
+            - Lambdas erstellen
+
+        - job: "Frontend-Webentwickler"
+          company: "10X Advantage"
+          companyUrl: "https://10xadvantage.agency/"
+          date: "Mar 2020 - Jun 2020 "
+          info:
+            enable: false
+          content: |
+            - Erstellung von Webseiten
+            - Erstellung von Webtrichtern
+            - Erstellung von Conversational Bots für Webseiten
+
+        - job: "Computer-Wartungsdienst"
+          company: "UE Colegio Micaeliano"
+          companyUrl: "https://www.facebook.com/UE-Colegio-Micaeliano-107447191946404/"
+          date: "Jun 2017 - Jul 2019"
+          info:
+            enable: false
+          content: |
+            - Installation von Windows- und GNU/Linux-Betriebssystemen
+            - Wartung von Computern
+            - Installation und Bereitstellung von Software
+
+        - job: "Praktikant an der ULA-Schule für Ingenieurwesen der Systeme"
+          company: "Universidad de los Andes VE"
+          companyUrl: "http://ula.ve/"
+          date: "Feb 2017 - Jul 2017"
+          info:
+            enable: false
+          content: |
+            - Computer reparieren
+            - Installation von Windows- und Debian-Betriebssystemen
+            - Erstellung eines Inventars aller Computer im Labor
+    # Education
+    education:
+      title: "Bildung"
+      enable: true
+      # index: true
+      items:
+        - title: "Ingenieur für Systemtechnik"
+          school:
+            name: "Universidad de los Andes VE"
+            url: "http://ula.ve/"
+          date: "2017 - 2021"
+        - title: "Gymnasium - Mittlere Reife Techniker in Handel und Verwaltung Erwähnung Informatik"
+          school:
+            name: "U.E. Colegio Micaeliano"
+            url: "https://www.facebook.com/UE-Colegio-Micaeliano-107447191946404/"
+          date: "2013 - 2017"
+    #Contact
+    contact:
+      title: "Kontakt aufnehmen"
+      enable: true
+      content: Mein Posteingang ist immer offen. Egal, ob Sie eine Frage haben oder einfach nur Hallo sagen wollen, ich werde mein Bestes tun, um Ihnen zu antworten!
+      email: robertschv@gmail.com
+      btnName: E-Mail an mich
+
+  #Spanisch
   es:
     languageName: Español
     menu:
@@ -131,9 +264,9 @@ languages:
       enable: true
       intro: "Hola, mi nombre es"
       title: "Robert."
-      subtitle: "I build things for the web"
-      content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-      image: /images/hero.svg
+      subtitle: "Un informático al que le encanta crear software"
+      content: "Un desarrollador de software apasionado. Construyo sitios web que se ven muy bien y trabajo en mis habilidades todos los días."
+      image: "/images/me2.webp"
       button:
         enable: true
         name: "Currículum"
@@ -146,6 +279,123 @@ languages:
             url: https://www.linkedin.com/in/hans-robert-schneider-6794a9176/?locale=es_ES
           - icon: fab fa-twitter
             url: https://twitter.com/Robertschneider
+
+    # About
+    about:
+      enable: true
+      title: "Acerca de mi"
+      image: "/images/IMG_0042-011.webp"
+      content: |-
+        Soporte técnico TI, Gestión servicios de TI, despliegue de software y desarrollador de software, también hago mantenimiento de equipos (Hardware y Software), actualmente estoy aprendiendo alemán, soy Técnico Medio en Informática, con mucho entusiasmo de desarrollarme en esta área.
+      #I am currently working on a project that will be used to help people find the best way to get around the city.
+      skills:
+        enable: true
+        title: "Estas son algunas de las tecnologías con las que he estado trabajando:"
+        items:
+          - "HTML"
+          - "CSS"
+          - "JavaScript"
+          - "React"
+          - "Soporte técnico"
+          - "Linux"
+          - "Windows"
+          - "Soporte al cliente"
+          - "Bash"
+          - "Troubleshooting"
+          - "Hugo Framework"
+    # Experience
+    experience:
+      enable: true
+      title: "Experiencia"
+      items:
+        - job: "Leading processor"
+          company: "GE Credit Solutions"
+          companyUrl: "https://www.gecreditsolutions.com/"
+          date: "Mar 2021 - Ene 2022"
+          info:
+            enable: false
+          content: |
+            En esta empresa de reparación de crédito.
+            - Generé cartas para disputar elementos del informe de crédito.
+            - Cobraba a los clientes.
+            - Agregué clientes a una suscripción de correo electrónico.
+            - Creé entradas de blog.
+            - Creé sitios web.
+
+        - job: "Desarrollador de software"
+          company: "Featuremine Corporation"
+          companyUrl: "https://www.featuremine.com/"
+          date: "Feb 2021 - Mar 2021"
+          info:
+            enable: false
+          content: |
+            - Crear instancias en AWS
+            - Configurar el servidor del nuevo sitio web de featuremine.com y actualizar el sitio web
+            - Crear contenedores Docker
+            - Crear Lambdas
+
+        - job: "Desarrolador Frontend Web"
+          company: "10X Advantage"
+          companyUrl: "https://10xadvantage.agency/"
+          date: "Mar 2020 - Jun 2020 "
+          info:
+            enable: false
+          content: |
+            - Creación de páginas web
+            - Creación de embudos web
+            - Creación de bots conversacionales para páginas web
+
+        - job: "Servicio de mantenimiento informático"
+          company: "UE Colegio Micaeliano"
+          companyUrl: "https://www.facebook.com/UE-Colegio-Micaeliano-107447191946404/"
+          date: "Jun 2017 - Jul 2019"
+          info:
+            enable: false
+          content: |
+            - Instalación de sistemas operativos Windows y GNU/Linux
+            - Mantenimiento de ordenadores
+            - Instalación y despliegue de software
+
+        - job: "Interno en la Escuela de Ingeniería de Sistemas de la ULA "
+          company: "Universidad de los Andes VE"
+          companyUrl: "http://ula.ve/"
+          date: "Feb 2017 - Jul 2017"
+          info:
+            enable: false
+          content: |
+            1. Arreglar ordenadores
+            2. Instalar los sistemas operativos Windows y Debian
+            3. Hizo un inventario de todos los ordenadores del laboratorio
+    # Education
+    education:
+      enable: true
+      title: "Educación"
+      # index: true
+      items:
+        - title: "Ingeniero en Ingenieria en Sistemas"
+          school:
+            name: "Universidad de los Andes VE"
+            url: "http://ula.ve/"
+          date: "2017 - 2021"
+        - title: "Técnico Medio en Comercio y Servicios Administrativos Mención Informática"
+          school:
+            name: "U.E. Colegio Micaeliano"
+            url: "https://www.facebook.com/UE-Colegio-Micaeliano-107447191946404/"
+          date: "2013 - 2017"
+    #Contact
+    contact:
+      title: "Contactame"
+      enable: true
+      content: Mi bandeja de entrada está siempre abierta. Tanto si tienes una pregunta como si sólo quieres saludar, haré lo posible por responderte!
+      email: robertschv@gmail.com
+      btnName: Envíame un correo electrónico
+
+    footer:
+      recentPosts: false
+      socialNetworks:
+        github: https://github.com/Robertschv
+        linkedin: https://www.linkedin.com/in/hans-robert-schneider-6794a9176/?locale=es_ES
+        twitter: https://twitter.com/Robertschneider
 
 title: "Robert Schneider- Portfolio"
 theme: hugo-profile
@@ -257,6 +507,7 @@ params:
   # Experience
   experience:
     enable: true
+    title: "Experience"
     items:
       - job: "Leading processor"
         company: "GE Credit Solutions"
@@ -302,7 +553,7 @@ params:
         info:
           enable: false
         content: |
-          - Installation of Windows XP and GNU/Linux operating systems
+          - Installation of Windows and GNU/Linux operating systems
           - Computer Maintenance
           - Software installation and deployment
 
@@ -318,6 +569,7 @@ params:
           - Made an inventory of all the computers in the lab
   # Education
   education:
+    title: "Education"
     enable: true
     # index: true
     items:
@@ -333,6 +585,7 @@ params:
         date: "2013 - 2017"
   #Contact
   contact:
+    title: "Get In Touch"
     enable: true
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     email: robertschv@gmail.com
