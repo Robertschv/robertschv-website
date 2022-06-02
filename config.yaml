@@ -5,6 +5,7 @@ server:
   headers:
   - for: /**
     values:
+      Feature-Policy: vibrate 'none'; geolocation 'none'; midi 'none'; notifications 'none'; push 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; speaker 'none'; vibrate 'none'; payment 'none
       Content-Security-Policy: policy
       Referrer-Policy: strict-origin-when-cross-origin
       X-Content-Type-Options: nosniff
