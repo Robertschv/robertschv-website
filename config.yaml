@@ -3,9 +3,9 @@ copyright: Hans Robert Schneider
 #security headers
 server:
   headers:
-  - for: /*
+  - for: /**
     values:
-    #  Content-Security-Policy: script-src localhost:1313
+      Content-Security-Policy: policy
       Referrer-Policy: strict-origin-when-cross-origin
       X-Content-Type-Options: nosniff
       X-Frame-Options: DENY
