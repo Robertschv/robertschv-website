@@ -95,7 +95,7 @@ languages:
       enable: true
       intro: "Hallo, mein Name ist"
       title: "Robert."
-      subtitle: "Ein IT-Mann, der es liebt, Software zu entwickeln"
+      subtitle: "Ein IT-Mann, der es liebt, Software zu entwickeln."
       content: "Ein leidenschaftlicher Softwareentwickler. Ich erstelle Websites, die toll aussehen, und arbeite jeden Tag an meinen Fähigkeiten."
       image: "/images/me2.webp"
       button:
@@ -117,7 +117,7 @@ languages:
       title: "Über mich"
       image: "/images/IMG_0042-011.webp"
       content: |-
-         IT-technische Unterstützung, IT-Service-Management, Software-Bereitstellung und Software-Entwickler, ich auch tun, Wartung von Geräten (Hardware und Software), ich bin derzeit ein Lernen Deutsch, ich bin ein Medium Techniker in Computer-Techniker, mit viel Begeisterung zu entwickeln in diesem Bereich.
+         IT-technische Unterstützung, IT-Service-Management, Software-Bereitstellung und Softwareentwickler, ich auch tun, Wartung von Geräten (Hardware und Software), ich bin derzeit ein Lernen Deutsch, ich bin ein Medium Techniker in Computer-Techniker, mit viel Begeisterung zu entwickeln in diesem Bereich.
       #I am currently working on a project that will be used to help people find the best way to get around the city.
       skills:
         enable: true
@@ -153,7 +153,7 @@ languages:
             - Blog-Beiträge erstellt.
             - Websites erstellt.
 
-        - job: "Software-Entwickler"
+        - job: "Softwareentwickler"
           company: "Featuremine Corporation"
           companyUrl: "https://www.featuremine.com/"
           date: "Feb 2021 - Mar 2021"
@@ -174,7 +174,7 @@ languages:
           content: |
             - Erstellung von Webseiten
             - Erstellung von Webtrichtern
-            - Erstellung von Conversational Bots für Webseiten
+            - Erstellung von Konversationsroboter für Webseiten
 
         - job: "Computer-Wartungsdienst"
           company: "UE Colegio Micaeliano"
@@ -187,7 +187,7 @@ languages:
             - Wartung von Computern
             - Installation und Bereitstellung von Software
 
-        - job: "Praktikant an der ULA-Schule für Ingenieurwesen der Systeme"
+        - job: "Praktikant an der ULA Universität für Ingenieurwesen der Systeme"
           company: "Universidad de los Andes VE"
           companyUrl: "http://ula.ve/"
           date: "Feb 2017 - Jul 2017"
@@ -247,7 +247,7 @@ languages:
         weight: 7
       - identifier: Language1
         title: Click here to switch to English
-        name: Ingles
+        name: Inglés
         url: /en
         parent: Languages
         weight: 1
@@ -284,7 +284,7 @@ languages:
     # About
     about:
       enable: true
-      title: "Acerca de mi"
+      title: "Acerca de mí"
       image: "/images/IMG_0042-011.webp"
       content: |-
         Soporte técnico TI, Gestión servicios de TI, despliegue de software y desarrollador de software, también hago mantenimiento de equipos (Hardware y Software), actualmente estoy aprendiendo alemán, soy Técnico Medio en Informática, con mucho entusiasmo de desarrollarme en esta área.
@@ -309,7 +309,7 @@ languages:
       enable: true
       title: "Experiencia"
       items:
-        - job: "Leading processor"
+        - job: "Procesador principal"
           company: "GE Credit Solutions"
           companyUrl: "https://www.gecreditsolutions.com/"
           date: "Mar 2021 - Ene 2022"
@@ -335,7 +335,7 @@ languages:
             - Crear contenedores Docker
             - Crear Lambdas
 
-        - job: "Desarrolador Frontend Web"
+        - job: "Desarrollador Frontend Web"
           company: "10X Advantage"
           companyUrl: "https://10xadvantage.agency/"
           date: "Mar 2020 - Jun 2020 "
@@ -373,7 +373,7 @@ languages:
       title: "Educación"
       # index: true
       items:
-        - title: "Ingeniero en Ingenieria en Sistemas"
+        - title: "Ingeniero en Ingeniería en Sistemas"
           school:
             name: "Universidad de los Andes VE"
             url: "http://ula.ve/"
@@ -385,9 +385,9 @@ languages:
           date: "2013 - 2017"
     #Contact
     contact:
-      title: "Contactame"
+      title: "Contáctame"
       enable: true
-      content: Mi bandeja de entrada está siempre abierta. Tanto si tienes una pregunta como si sólo quieres saludar, haré lo posible por responderte!
+      content: Mi bandeja de entrada está siempre abierta. Tanto si tienes una pregunta como si solo quieres saludar, haré lo posible por responderte!
       email: robertschv@gmail.com
       btnName: Envíame un correo electrónico
 
@@ -467,7 +467,7 @@ params:
     intro: "Hi, my name is"
     title: "Robert."
     subtitle: "An IT man that loves to create software"
-    content: "A passionate software developer. I build websites that looks great and I work on my skills everyday."
+    content: "A passionate software developer. I build websites that look great, and I work on my skills every day."
     image: "/images/me2.webp"
     button:
       enable: true
@@ -566,7 +566,7 @@ params:
           enable: false
         content: |
           - Fixing computers
-          - installing Windows and Debian OSs
+          - installing Windows and Debian OSes
           - Made an inventory of all the computers in the lab
   # Education
   education:

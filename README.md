@@ -7,7 +7,7 @@ Personal website made with Hugo and [Hugo-profile](https://github.com/gurusabari
 
 -   Site: [robertschv.netlify.app](https://robertschv.netlify.app)
 
-# Added Features (appart from the features of the Theme)
+# Added Features (apart from the features of the Theme)
 - Multi-languages
 - Security Headers
 # Requirements
