@@ -101,13 +101,13 @@ languages:
       button:
         enable: true
         name: "Lebenslauf"
-        url: "https://rxresu.me/robertschv/it-english"
+        url: "https://rxresu.me/robertschv/it-german"
       socialLinks:
         fontAwesomeIcons:
           - icon: fab fa-github
             url: https://github.com/Robertschv
           - icon: fab fa-linkedin
-            url: https://www.linkedin.com/in/hans-robert-schneider-6794a9176/
+            url: https://www.linkedin.com/in/hans-robert-schneider-6794a9176/details/experience/?locale=de_DE
           - icon: fab fa-twitter
             url: https://twitter.com/Robertschneider
 
