@@ -117,7 +117,7 @@ languages:
       title: "Über mich"
       image: "/images/IMG_0042-011.webp"
       content: |-
-         IT-technische Unterstützung, IT-Service-Management, Software-Bereitstellung und Softwareentwickler, ich auch tun, Wartung von Geräten (Hardware und Software), ich bin derzeit ein Lernen Deutsch, ich bin ein Medium Techniker in Computer-Techniker, mit viel Begeisterung zu entwickeln in diesem Bereich.
+         IT-technische Unterstützung, IT-Service-Management, Software-Bereitstellung und Softwareentwickler, ich auch tun, Wartung von Geräten (Hardware und Software), ich bin derzeit ein Lernen Deutsch, ich bin ein Medium Techniker in Computer, mit viel Begeisterung zu entwickeln in diesem Bereich.
       #I am currently working on a project that will be used to help people find the best way to get around the city.
       skills:
         enable: true
@@ -287,7 +287,7 @@ languages:
       title: "Acerca de mí"
       image: "/images/IMG_0042-011.webp"
       content: |-
-        Soporte técnico TI, Gestión servicios de TI, despliegue de software y desarrollador de software, también hago mantenimiento de equipos (Hardware y Software), actualmente estoy aprendiendo alemán, soy Técnico Medio en Informática, con mucho entusiasmo de desarrollarme en esta área.
+        Soporte técnico TI, Gestión servicios de TI, despliegue de software y desarrollador de software, también hago mantenimiento de equipos (Hardware y Software), actualmente aprendiendo alemán, soy Técnico Medio en Informática, con mucho entusiasmo de desarrollarme en esta área.
       #I am currently working on a project that will be used to help people find the best way to get around the city.
       skills:
         enable: true
@@ -488,7 +488,7 @@ params:
     title: "About me"
     image: "/images/IMG_0042-011.webp"
     content: |-
-      IT technical support, IT service management, software deployment and software developer, I also do equipment maintenance (Hardware and Software), I am currently a learning German, I am a Medium Technician in Computer Technician, with much enthusiasm to develop in this area.
+      IT technical support, IT service management, software deployment and software developer, I also do equipment maintenance (Hardware and Software), I am currently learning German, I am a Medium Technician in Computer, with much enthusiasm to develop in this area.
     #I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
       enable: true
