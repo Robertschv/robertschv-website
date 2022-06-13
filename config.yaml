@@ -55,13 +55,13 @@ languages:
     languageName: Deutsch
     menu:
       main:
-      - name: Über ich
+      - name: Über mich
         url: /de/#About
         weight: 1
-      - name: Erleben Sie
+      - name: Erfahrung
         url: /de/#experience
         weight: 2
-      - name: Bildung
+      - name: Ausbildung
         url: /de/#education
         weight: 3
         #Projects
@@ -95,7 +95,7 @@ languages:
       enable: true
       intro: "Hallo, mein Name ist"
       title: "Robert."
-      subtitle: "Ein IT-Mann, der es liebt, Software zu entwickeln."
+      subtitle: "Ein IT-ler, der es liebt, Software zu entwickeln."
       content: "Ein leidenschaftlicher Softwareentwickler. Ich erstelle Websites, die toll aussehen, und arbeite jeden Tag an meinen Fähigkeiten."
       image: "/images/me2.webp"
       button:
@@ -117,16 +117,15 @@ languages:
       title: "Über mich"
       image: "/images/IMG_0042-011.webp"
       content: |-
-         IT-technische Unterstützung, IT-Service-Management, Software-Bereitstellung und Softwareentwickler, ich auch tun, Wartung von Geräten (Hardware und Software), ich bin derzeit ein Lernen Deutsch, ich bin ein Medium Techniker in Computer, mit viel Begeisterung zu entwickeln in diesem Bereich.
+         IT-technische Unterstützung, IT-Service-Management, Software-Bereitstellung und Softwareentwicklung, ich mache auch Wartung von Geräten (Hardware und Software), ich lerne derzeit Deutsch, ich bin Computer Medium Techniker, mit viel Begeisterung für Entwicklungen in diesem Bereich.
       #I am currently working on a project that will be used to help people find the best way to get around the city.
       skills:
         enable: true
-        title: "Hier sind ein paar Technologien, mit denen ich gearbeitet habe:"
+        title: "Hier sind ein paar Skills, mit denen ich gearbeitet habe:"
         items:
           - "HTML"
           - "CSS"
           - "JavaScript"
-          - "React"
           - "Technische Unterstützung"
           - "Linux"
           - "Windows"
@@ -146,12 +145,14 @@ languages:
           info:
             enable: false
           content: |
-            In dieser Kreditreparaturfirma.
-            - Ich erstellte Briefe zur Anfechtung von Kreditauskünften.
-            - Kunden in Rechnung gestellt.
-            - Kunden zu einem E-Mail-Abonnement hinzugefügt.
-            - Blog-Beiträge erstellt.
-            - Websites erstellt.
+            Kreditreparaturfirma
+            
+            Tätigkeiten:
+            - Erstellung von Briefen zur Anfechtung von Kreditauskünften;
+            - Rechnungsstellung an Kunden;
+            - Hinzugefügung von Kunden zu einem E-Mail-Abonnement;
+            - Erstellung von Blog-Beiträge;
+            - Erstellung von Websites.
 
         - job: "Softwareentwickler"
           company: "Featuremine Corporation"
@@ -160,10 +161,10 @@ languages:
           info:
             enable: false
           content: |
-            - Instanzen in AWS erstellen
-            - Richten Sie den Server der neuen Website von featuremine.com ein und aktualisieren Sie die Website
-            - Docker-Container erstellen
-            - Lambdas erstellen
+            - Erstellung von Instanzen in AWS;
+            - Einrichtung des Servers der neuen Website von featuremine.com und Aktualisierung der Website;
+            - Erstellung von Docker-Containern;
+            - Erstellung von Lambdas.
 
         - job: "Frontend-Webentwickler"
           company: "10X Advantage"
@@ -172,9 +173,9 @@ languages:
           info:
             enable: false
           content: |
-            - Erstellung von Webseiten
-            - Erstellung von Webtrichtern
-            - Erstellung von Konversationsroboter für Webseiten
+            - Erstellung von Websites;
+            - Erstellung von Webtrichtern;
+            - Erstellung von Konversationsroboter für Websites.
 
         - job: "Computer-Wartungsdienst"
           company: "UE Colegio Micaeliano"
@@ -183,9 +184,9 @@ languages:
           info:
             enable: false
           content: |
-            - Installation von Windows- und GNU/Linux-Betriebssystemen
-            - Wartung von Computern
-            - Installation und Bereitstellung von Software
+            - Installation von Windows- und GNU/Linux-Betriebssystemen;
+            - Wartung von Computern;
+            - Installation und Bereitstellung von Software.
 
         - job: "Praktikant an der ULA Universität für Ingenieurwesen der Systeme"
           company: "Universidad de los Andes VE"
@@ -194,9 +195,9 @@ languages:
           info:
             enable: false
           content: |
-            - Computer reparieren
-            - Installation von Windows- und Debian-Betriebssystemen
-            - Erstellung eines Inventars aller Computer im Labor
+            - Reparatur von Computern;
+            - Installation von Windows- und Debian-Betriebssystemen;
+            - Erstellung einer Inventarliste für alle Computer im Labor.
     # Education
     education:
       title: "Bildung"
@@ -215,7 +216,7 @@ languages:
           date: "2013 - 2017"
     #Contact
     contact:
-      title: "Kontakt aufnehmen"
+      title: "Kontaktaufnahme"
       enable: true
       content: Mein Posteingang ist immer offen. Egal, ob Sie eine Frage haben oder einfach nur Hallo sagen wollen, ich werde mein Bestes tun, um Ihnen zu antworten!
       email: robertschv@gmail.com
@@ -291,12 +292,11 @@ languages:
       #I am currently working on a project that will be used to help people find the best way to get around the city.
       skills:
         enable: true
-        title: "Estas son algunas de las tecnologías con las que he estado trabajando:"
+        title: "Estas son algunas Habilidades en las que he estado trabajando:"
         items:
           - "HTML"
           - "CSS"
           - "JavaScript"
-          - "React"
           - "Soporte técnico"
           - "Linux"
           - "Windows"
@@ -492,12 +492,11 @@ params:
     #I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with:"
+      title: "Here are a few skills that I've been working in:"
       items:
         - "HTML"
         - "CSS"
         - "JavaScript"
-        - "React"
         - "Technical Support"
         - "Linux"
         - "Windows"
