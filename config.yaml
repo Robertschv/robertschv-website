@@ -195,9 +195,9 @@ languages:
           info:
             enable: false
           content: |
-            - Einrichtung von Computern.
-            - Bestandsaufnahme aller Computer in den Laboratorien.
-            - Erstellung einer Website mit dem Laravel-Framework und XAMPP.
+            - Einrichtung von Computern;
+            - Bestandsaufnahme aller Computer in den Laboratorien;
+            - Erstellung einer Website mit dem Laravel-Framework und XAMPP;
             - Reparatur von Computern;
             - Installation von Windows- und Debian-Betriebssystemen;
             - Erstellung einer Inventarliste für alle Computer im Labor.
