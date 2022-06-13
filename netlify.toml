@@ -16,7 +16,7 @@
   baseUrl = "https://robertschv.netlify.app"
 
   # Path to the sitemap URL (optional, default = /sitemap.xml)
-  sitemapPath = "/public/sitemap.xml"
+  sitemapPath = "/sitemap.xml"
 
   # Time in seconds to not submit the sitemap after successful submission
   ignorePeriod = 0
