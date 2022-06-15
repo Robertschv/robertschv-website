@@ -31,7 +31,7 @@ minify:
       keepComments: false
       precision: 0
     xml:
-      keepWhitespace: true
+      keepWhitespace: false
 #security headers
 server:
   headers:
